@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/keith/CPSC475_examples/5_PrefFragment/PrefFragment/app/build/intermediates/res/merged/debug/xml/preference.xml",
+        "source": "/home/keith/CPSC475_examples/5_PrefFragment/PrefFragment/app/src/main/res/xml/preference.xml"
+    },
+    {
+        "merged": "/home/keith/CPSC475_examples/5_PrefFragment/PrefFragment/app/build/intermediates/res/merged/debug/xml/pref_display.xml",
+        "source": "/home/keith/CPSC475_examples/5_PrefFragment/PrefFragment/app/src/main/res/xml/pref_display.xml"
+    },
+    {
+        "merged": "/home/keith/CPSC475_examples/5_PrefFragment/PrefFragment/app/build/intermediates/res/merged/debug/xml/preference_extensive.xml",
+        "source": "/home/keith/CPSC475_examples/5_PrefFragment/PrefFragment/app/src/main/res/xml/preference_extensive.xml"
+    }
+]
